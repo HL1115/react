@@ -14,7 +14,7 @@ npm install create-react-app -g
 ```
 create-react-app projectName
 ```
-## 启动
+## 启动项目
 ```
 npm start
 ```
