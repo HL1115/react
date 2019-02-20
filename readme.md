@@ -7,7 +7,7 @@ create-react-app/react/react-dom/react-router/redux/react-redux/axios/ant/dva/sa
 ```
 
 +  [reactjs](./reactjs)
-+  [react-router](./react-router)
-+  [react-redux](./react-redux)
++  [react-router](./router)
++  [react-redux](./redux)
 +  [ant-design](./antd)
 
