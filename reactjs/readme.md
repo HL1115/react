@@ -18,3 +18,13 @@ create-react-app projectName
 ```
 npm start
 ```
+## 知识内容
++ JSX 语法
++ 元素渲染
++ 组件 & Props
++ State & 生命周期
++ 事件处理
++ 表单
++ 受控组件与非受控组件
++ refs 与 DOM Elements
++ . . . . . .
