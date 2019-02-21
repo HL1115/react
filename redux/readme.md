@@ -1,6 +1,6 @@
 ![](logo.png)
 # **redux**
-> Redux 是 JavaScript 应用程序的可预测化状态容器。Redux 由 Flux 演变而来，避开了 Flux 的复杂性。
+> Redux 是 JavaScript 状态容器，提供可预测化的状态管理。Redux 由 Flux 演变而来，避开了 Flux 的复杂性。
 
 ## 安装
 ```
